@@ -25,3 +25,6 @@ Problems:
 Bonus:
 
 Fetch everyone from the db, update _all_ of their `company` columns to `General Assembly` and make sure they are saved to the db.
+
+### Additional Resources
+Formatting return data with JSON.stringify: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
