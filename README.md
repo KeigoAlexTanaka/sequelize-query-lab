@@ -19,7 +19,9 @@ Problems:
 <details>
   <summary>Hint</summary>
   http://docs.sequelizejs.com/manual/querying.html
-</details> . 
+</details>
+<br />
+<br />
 Bonus:
 
 Fetch everyone from the db, update _all_ of their `company` columns to `General Assembly` and make sure they are saved to the db.
