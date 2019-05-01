@@ -9,6 +9,10 @@
 Problems:
 
 - write a function that fetches all `people` from the db and returns the array
+<details>
+  <summary>Hint</summary>
+  (Check out the docs!)[http://docs.sequelizejs.com/manual/querying.html]
+</details>
 - fetch all the `people` from the db, but only return their `name` and `company
 - fetch only people who have id's greater than 10
 - Create two new people and make sure they are saved to the db.  How might you verify this both in psql and using sequelize?
