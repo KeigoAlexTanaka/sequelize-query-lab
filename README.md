@@ -22,6 +22,9 @@ Problems:
 </details>
   
 
+
+
+
 Bonus:
 
 Fetch everyone from the db, update _all_ of their `company` columns to `General Assembly` and make sure they are saved to the db.
