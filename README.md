@@ -18,7 +18,7 @@ Problems:
 
 <details>
   <summary>Hint</summary>
-  [Check out the docs!](http://docs.sequelizejs.com/manual/querying.html)
+  <http://docs.sequelizejs.com/manual/querying.html>
 </details>
 
 Bonus:
